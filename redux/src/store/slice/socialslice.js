@@ -1,5 +1,6 @@
 import { createSlice } from "@reduxjs/toolkit";
-import socialslice from '.'
+import socialslice from '../slice/socialslice.js'
+
 
 
 const socialslice=createSlice({
