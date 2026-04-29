@@ -1,4 +1,4 @@
-import {ConfigureStore} from "@reduxjs/toolkit";
+import ConfigureStore from "@reduxjs/toolkit";
 
 const store=ConfigureStore({
     reducer:{}
